@@ -1,0 +1,180 @@
+{
+  "id": "e450f21f-1302-4221-81e3-ff0b0a0d91e8",
+  "version": "2.0",
+  "name": "Lab 5",
+  "url": "https://web.cecs.pdx.edu",
+  "tests": [{
+    "id": "907963dc-fbbb-4214-b08e-f0fd0cf4af6f",
+    "name": "TEST 1",
+    "commands": [{
+      "id": "09dc2cfe-92fc-4c45-8757-817d1a66b2db",
+      "comment": "",
+      "command": "open",
+      "target": "/~cgi_web/F/order.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0c8b97e3-cc51-40d4-9b5e-dbd25e6d1f12",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "864x877",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "91289fa1-06d6-4cb1-8a7c-237416ab2554",
+      "comment": "",
+      "command": "click",
+      "target": "id=customer",
+      "targets": [
+        ["id=customer", "id"],
+        ["name=customer", "name"],
+        ["css=#customer", "css:finder"],
+        ["xpath=//input[@id='customer']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ad32ec94-25b1-4390-be59-9ed1a0268ca9",
+      "comment": "",
+      "command": "type",
+      "target": "id=customer",
+      "targets": [
+        ["id=customer", "id"],
+        ["name=customer", "name"],
+        ["css=#customer", "css:finder"],
+        ["xpath=//input[@id='customer']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Kayla"
+    }, {
+      "id": "5140ab77-d6f1-49bb-8e82-7de27d58013d",
+      "comment": "",
+      "command": "click",
+      "target": "id=sandwich",
+      "targets": [
+        ["id=sandwich", "id"],
+        ["name=sandwich", "name"],
+        ["css=#sandwich", "css:finder"],
+        ["xpath=//input[@id='sandwich']", "xpath:attributes"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "be02a269-b31f-4e84-aec0-e5d10c66e33f",
+      "comment": "",
+      "command": "type",
+      "target": "id=sandwich",
+      "targets": [
+        ["id=sandwich", "id"],
+        ["name=sandwich", "name"],
+        ["css=#sandwich", "css:finder"],
+        ["xpath=//input[@id='sandwich']", "xpath:attributes"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "Cheeseburger"
+    }, {
+      "id": "70005229-7df0-4218-854b-bfa826ddd582",
+      "comment": "",
+      "command": "click",
+      "target": "id=sides",
+      "targets": [
+        ["id=sides", "id"],
+        ["name=sides", "name"],
+        ["css=#sides", "css:finder"],
+        ["xpath=//input[@id='sides']", "xpath:attributes"],
+        ["xpath=//body/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "00d59aeb-3625-482b-b35a-b3fc02ee7a4a",
+      "comment": "",
+      "command": "type",
+      "target": "id=sides",
+      "targets": [
+        ["id=sides", "id"],
+        ["name=sides", "name"],
+        ["css=#sides", "css:finder"],
+        ["xpath=//input[@id='sides']", "xpath:attributes"],
+        ["xpath=//body/input", "xpath:position"]
+      ],
+      "value": "Fries"
+    }, {
+      "id": "cb1dedb3-3a28-414e-a635-976da86c3838",
+      "comment": "",
+      "command": "click",
+      "target": "id=drinks",
+      "targets": [
+        ["id=drinks", "id"],
+        ["name=drinks", "name"],
+        ["css=#drinks", "css:finder"],
+        ["xpath=//input[@id='drinks']", "xpath:attributes"],
+        ["xpath=//form[4]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "87501a98-82a6-4cb6-8999-bd83010292cd",
+      "comment": "",
+      "command": "type",
+      "target": "id=drinks",
+      "targets": [
+        ["id=drinks", "id"],
+        ["name=drinks", "name"],
+        ["css=#drinks", "css:finder"],
+        ["xpath=//input[@id='drinks']", "xpath:attributes"],
+        ["xpath=//form[4]/input", "xpath:position"]
+      ],
+      "value": "Coke"
+    }, {
+      "id": "37feaca3-7bb9-45fb-a7ae-85c26441f86a",
+      "comment": "",
+      "command": "click",
+      "target": "id=customer",
+      "targets": [
+        ["id=customer", "id"],
+        ["name=customer", "name"],
+        ["css=#customer", "css:finder"],
+        ["xpath=//input[@id='customer']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d4db079c-6aef-4f69-95ea-a9e5abf0a08a",
+      "comment": "NAME",
+      "command": "verifyValue",
+      "target": "id=customer",
+      "targets": [],
+      "value": "Kayla"
+    }, {
+      "id": "390bdb9c-61f7-4b87-a11a-4239ab57ebbb",
+      "comment": "SANDWICH",
+      "command": "verifyValue",
+      "target": "id=sandwich",
+      "targets": [],
+      "value": "Cheeseburger"
+    }, {
+      "id": "5702aa2e-8903-41ba-aa36-8776dba0bf55",
+      "comment": "SIDES",
+      "command": "verifyValue",
+      "target": "id=sides",
+      "targets": [],
+      "value": "Fries"
+    }, {
+      "id": "e7f6a415-2b68-42d4-ae49-31a2ad64683d",
+      "comment": "DRINKS",
+      "command": "verifyValue",
+      "target": "id=drinks",
+      "targets": [],
+      "value": "Coke"
+    }]
+  }],
+  "suites": [{
+    "id": "911a385f-1fb0-40b2-b904-96646a6b80a5",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["907963dc-fbbb-4214-b08e-f0fd0cf4af6f"]
+  }],
+  "urls": ["https://web.cecs.pdx.edu/"],
+  "plugins": []
+}
