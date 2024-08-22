@@ -1,0 +1,549 @@
+{
+  "id": "b4a79d23-db38-4357-88de-e0f3813edb08",
+  "version": "2.0",
+  "name": "EX4.side",
+  "url": "https://web.cecs.pdx.edu/~cgi_web/F/game.html",
+  "tests": [{
+    "id": "6d100cda-6cc0-43fa-9a71-e4b5c39828e9",
+    "name": "TC1",
+    "commands": [{
+      "id": "d0e55487-d87f-416e-88ee-28e26cf39262",
+      "comment": "",
+      "command": "open",
+      "target": "/~cgi_web/F/game.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "10da77f6-8324-4858-99a3-5ae19615f447",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "864x877",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a4f2e945-a006-46e2-abe8-1d02a8dd97ee",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f9b12d8-d973-46fc-87d7-c231277769e4",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "396cc683-39b8-4db6-bcc3-67a2160e2ac2",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ec6b9c60-68d1-4d03-ae6a-09101927cdac",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "46f8ca25-1806-4634-ae16-7fdb43c26dcc",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c5b11e4c-4f9a-4504-9434-4a4530dddf44",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6f085c64-1820-4eb9-8503-7e02a711b84e",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "832b17d2-ec14-40dd-80ec-5c9583e0481f",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0275cb40-5250-47d6-9e00-36cd78ba0ff5",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6dfab62d-3018-4dad-8ad8-a08430e5f4c6",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a664a2ca-3af0-4bb3-8e00-9857c7566127",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(1) > button",
+      "targets": [
+        ["css=td:nth-child(1) > button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//tr[2]/td/button", "xpath:position"],
+        ["xpath=//button[contains(.,'WEST')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ea35879d-e391-471e-bd1c-b6cf524a711a",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(3) button",
+      "targets": [
+        ["css=tr:nth-child(3) button", "css:finder"],
+        ["xpath=(//button[@type='button'])[5]", "xpath:attributes"],
+        ["xpath=//tr[3]/td[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'SOUTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b063010e-b221-446d-914d-068ccce9d967",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(3) button",
+      "targets": [
+        ["css=tr:nth-child(3) button", "css:finder"],
+        ["xpath=(//button[@type='button'])[5]", "xpath:attributes"],
+        ["xpath=//tr[3]/td[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'SOUTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dcb70a8f-8b2b-4438-b676-2df7a294a4e2",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(3) button",
+      "targets": [
+        ["css=tr:nth-child(3) button", "css:finder"],
+        ["xpath=(//button[@type='button'])[5]", "xpath:attributes"],
+        ["xpath=//tr[3]/td[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'SOUTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dd5c7e11-3232-4a41-ab8b-cb4d3db6580a",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(3) button",
+      "targets": [
+        ["css=tr:nth-child(3) button", "css:finder"],
+        ["xpath=(//button[@type='button'])[5]", "xpath:attributes"],
+        ["xpath=//tr[3]/td[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'SOUTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b947eb00-89aa-4a9d-a98e-8c195bcc3725",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(3) button",
+      "targets": [
+        ["css=tr:nth-child(3) button", "css:finder"],
+        ["xpath=(//button[@type='button'])[5]", "xpath:attributes"],
+        ["xpath=//tr[3]/td[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'SOUTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e863d0a2-53f0-4c33-a2b8-3de2cfa9b41b",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(3) button",
+      "targets": [
+        ["css=tr:nth-child(3) button", "css:finder"],
+        ["xpath=(//button[@type='button'])[5]", "xpath:attributes"],
+        ["xpath=//tr[3]/td[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'SOUTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1d05e3ff-bd54-4966-ba72-8535153c00c5",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(3) button",
+      "targets": [
+        ["css=tr:nth-child(3) button", "css:finder"],
+        ["xpath=(//button[@type='button'])[5]", "xpath:attributes"],
+        ["xpath=//tr[3]/td[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'SOUTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7f11d62d-2644-422a-b8ad-a8afc08a97a8",
+      "comment": "Current x location",
+      "command": "verifyValue",
+      "target": "id=xlocation",
+      "targets": [],
+      "value": "1"
+    }, {
+      "id": "7db8bdbf-1f66-4ebd-8cde-81a08ff3e746",
+      "comment": "Current y location",
+      "command": "verifyValue",
+      "target": "id=ylocation",
+      "targets": [],
+      "value": "5"
+    }, {
+      "id": "f9fb7bad-c315-48c6-9474-cb4a2858d13a",
+      "comment": "energy",
+      "command": "verifyValue",
+      "target": "id=energy",
+      "targets": [],
+      "value": "81"
+    }]
+  }, {
+    "id": "51c85251-6b1e-44b5-863a-da7a3bf7df14",
+    "name": "TC10",
+    "commands": [{
+      "id": "2f52d930-b663-4a80-8cbb-ecbb92cce1cf",
+      "comment": "",
+      "command": "open",
+      "target": "https://web.cecs.pdx.edu/~cgi_web/F/game.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7dc5edbb-b51d-4361-9649-d9904757b2b3",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "864x877",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "893255e2-eca6-443b-b0cd-9d308f250d34",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "259853c8-85c4-4c20-8a2f-e4a392f8708f",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c1c9c414-e63f-49cd-9b71-39e944b4adf7",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "09e24680-eaa0-4449-9b98-44b0cc1ac2f0",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ac0ec017-7107-4ad7-bf9c-70d8ec525235",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "73d0744b-a163-4345-9e74-b10935491456",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e689d5f5-8fc7-4379-9899-9962935aa61a",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "084128e0-d052-41c6-b28c-ffc8d13d4120",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "83bd77cf-f129-4ec9-a259-b60926b85f8e",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "58bf6489-7460-4fef-93a0-75d0048b999a",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "54422424-b49a-420b-9087-1a6bc12af3ff",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d2a3acb1-269c-4d9a-8137-a1599932b87f",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b61b7f57-b2dd-4e0b-981a-2b82b65373a1",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4d659c62-8b27-4e07-834f-a60019e60e29",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "93eeb9e8-4678-4d71-8943-dcc2210dbce8",
+      "comment": "",
+      "command": "assertAlert",
+      "target": "YIKES! You've walked off the edge of the world",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e2b51201-1823-42c6-8bae-e1b66f76ba14",
+      "comment": "current x location",
+      "command": "verifyValue",
+      "target": "id=xlocation",
+      "targets": [],
+      "value": "12"
+    }, {
+      "id": "7aad2f8e-b723-499c-9c67-dc684ee312c6",
+      "comment": "current y location",
+      "command": "verifyValue",
+      "target": "id=ylocation",
+      "targets": [],
+      "value": "12"
+    }, {
+      "id": "2932afd8-28a6-4c2a-ac16-fb43f9fc1bb6",
+      "comment": "energy",
+      "command": "verifyValue",
+      "target": "id=energy",
+      "targets": [],
+      "value": "86"
+    }]
+  }, {
+    "id": "54ff6c93-1c5b-4d6b-99b1-bbb549dbd83e",
+    "name": "TC4",
+    "commands": [{
+      "id": "00b26bc4-b807-4d2a-abca-3f477ea607bb",
+      "comment": "",
+      "command": "open",
+      "target": "https://web.cecs.pdx.edu/~cgi_web/F/game.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c96b99c6-1f05-43f2-9f58-2536a3802a76",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "864x877",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3f01893a-501f-4897-8701-e2968f7d7ab1",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) button",
+      "targets": [
+        ["css=tr:nth-child(1) button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'NORTH')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c617dac1-d6f4-4948-a1f6-aa23042cf59a",
+      "comment": "",
+      "command": "click",
+      "target": "id=message",
+      "targets": [
+        ["id=message", "id"],
+        ["css=#message", "css:finder"],
+        ["xpath=//input[@id='message']", "xpath:attributes"],
+        ["xpath=//input[5]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "73cd4a2f-3ccf-4ee8-8bc4-e240dcbee349",
+      "comment": "current x location",
+      "command": "verifyValue",
+      "target": "id=xlocation",
+      "targets": [],
+      "value": "12"
+    }, {
+      "id": "4b87e047-6473-4aaf-8c17-0b72ee719ab2",
+      "comment": "current y location",
+      "command": "verifyValue",
+      "target": "id=ylocation",
+      "targets": [],
+      "value": "13"
+    }, {
+      "id": "cd71f87a-24b0-4314-80c4-233a71efdcee",
+      "comment": "energy",
+      "command": "verifyValue",
+      "target": "id=energy",
+      "targets": [],
+      "value": "99"
+    }]
+  }],
+  "suites": [{
+    "id": "ac49cf2e-3373-4a6f-b275-35ab8aade7df",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["6d100cda-6cc0-43fa-9a71-e4b5c39828e9"]
+  }],
+  "urls": ["https://web.cecs.pdx.edu/", "https://web.cecs.pdx.edu/~cgi_web/F/game.html"],
+  "plugins": []
+}
